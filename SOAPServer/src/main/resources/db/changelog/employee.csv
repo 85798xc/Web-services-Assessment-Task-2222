@@ -1,0 +1,31 @@
+id;first_name;last_name;age;position
+1;John;Hock;45;Senior Developer
+2;Endru;Edison;44;Middle Developer
+3;Dmitrij;Kozlov;25;Junior Developer
+4;Marija;Skvarnova;29;QA Engineer
+5;Alexey;Smirnov;25;Automation QA
+6;Sergey;Vasilyev;38;Business Analyst
+7;Anna;Krylova;32;Data Analyst
+8;Victor;Pavlov;29;System Analyst
+9;Ekaterina;Sokolova;31;Marketing Manager
+10;Nikolay;Andreev;33;SEO Specialist
+11;Elena;Morozova;26;SMM Manager
+12;Yulia;Tikhonova;35;HR Manager
+13;Artem;Vasilij;30;Recruiter
+14;Natalija;Gromova;37;HR Business Partner
+15;Ivan;Petrov;28;Frontend Developer
+16;Olga;Ivanova;31;Backend Developer
+17;Maxim;Sidorov;35;DevOps Engineer
+18;Alina;Kuznetsova;27;UX Designer
+19;Pavel;Fedorov;42;Project Manager
+20;Tatiana;Orlova;29;Product Manager
+21;Denis;Borisov;33;Data Scientist
+22;Kristina;Zaitseva;26;Junior QA
+23;Roman;Kozlov;38;Security Analyst
+24;Veronika;Popova;34;Content Manager
+25;Andrey;Volkov;40;IT Director
+26;Marina;Lebedeva;29;HR Specialist
+27;Grigory;Sokolov;36;Financial Analyst
+28;Daria;Morozova;31;Loan Specialist
+29;Stanislav;Novikov;45;Investment Manager
+30;Karina;Vasilieva;28;Customer Support

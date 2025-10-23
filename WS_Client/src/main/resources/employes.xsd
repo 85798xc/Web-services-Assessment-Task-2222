@@ -1,0 +1,39 @@
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:tns="http://spring.io/guides/gs-producing-web-service"
+           targetNamespace="http://spring.io/guides/gs-producing-web-service" elementFormDefault="qualified">
+
+    <xs:element name="getEmployeeRequest">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element name="Name" type="xs:string"/>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+
+    <xs:element name="getEmployeeResponse">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element name="Employee" type="tns:Employee"/>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+
+    <xs:complexType name="Employee">
+        <xs:sequence>
+            <xs:element name="Name" type="xs:string"/>
+            <xs:element name="Surname" type="xs:string"/>
+            <xs:element name="Age" type="xs:integer"/>
+            <xs:element name="Position" type="xs:string"/>
+            <xs:element name="Department" type="tns:Department"/>
+        </xs:sequence>
+    </xs:complexType>
+
+    <xs:simpleType name="Department">
+        <xs:restriction base="xs:string">
+            <xs:enumeration value="Developer department"/>
+            <xs:enumeration value="Testing department"/>
+            <xs:enumeration value="Analytics department"/>
+            <xs:enumeration value="Marketing department"/>
+            <xs:enumeration value="HR and Recuitment department"/>
+        </xs:restriction>
+    </xs:simpleType>
+</xs:schema>

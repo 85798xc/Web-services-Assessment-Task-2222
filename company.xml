@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<company>
+    <Departments>
+        <department>
+            <id>1</id>
+            <departmentName>Lending department</departmentName>
+            <employes>
+                <id>27</id>
+                <firstName>Grigory</firstName>
+                <lastName>Sokolov</lastName>
+                <age>36</age>
+                <position>Financial Analyst</position>
+            </employes>
+            <employes>
+                <id>28</id>
+                <firstName>Daria</firstName>
+                <lastName>Morozova</lastName>
+                <age>31</age>
+                <position>Loan Specialist</position>
+            </employes>
+            <employes>
+                <id>30</id>
+                <firstName>Karina</firstName>
+                <lastName>Vasilieva</lastName>
+                <age>28</age>
+                <position>Customer Support</position>
+            </employes>
+        </department>
+        <department>
+            <id>2</id>
+            <departmentName>InvestFund department</departmentName>
+            <employes>
+                <id>29</id>
+                <firstName>Stanislav</firstName>
+                <lastName>Novikov</lastName>
+                <age>45</age>
+                <position>Investment Manager</position>
+            </employes>
+        </department>
+        <department>
+            <id>3</id>
+            <departmentName>Analytics department</departmentName>
+            <employes>
+                <id>6</id>
+                <firstName>Sergey</firstName>
+                <lastName>Vasilyev</lastName>
+                <age>38</age>
+                <position>Business Analyst</position>
+            </employes>
+            <employes>
+                <id>7</id>
+                <firstName>Anna</firstName>
+                <lastName>Krylova</lastName>
+                <age>32</age>
+                <position>Data Analyst</position>
+            </employes>
+            <employes>
+                <id>8</id>
+                <firstName>Victor</firstName>
+                <lastName>Pavlov</lastName>
+                <age>29</age>
+                <position>System Analyst</position>
+            </employes>
+            <employes>
+                <id>21</id>
+                <firstName>Denis</firstName>
+                <lastName>Borisov</lastName>
+                <age>33</age>
+                <position>Data Scientist</position>
+            </employes>
+            <employes>
+                <id>23</id>
+                <firstName>Roman</firstName>
+                <lastName>Kozlov</lastName>
+                <age>38</age>
+                <position>Security Analyst</position>
+            </employes>
+        </department>
+        <department>
+            <id>4</id>
+            <departmentName>Marketing department</departmentName>
+            <employes>
+                <id>9</id>
+                <firstName>Ekaterina</firstName>
+                <lastName>Sokolova</lastName>
+                <age>31</age>
+                <position>Marketing Manager</position>
+            </employes>
+            <employes>
+                <id>10</id>
+                <firstName>Nikolay</firstName>
+                <lastName>Andreev</lastName>
+                <age>33</age>
+                <position>SEO Specialist</position>
+            </employes>
+            <employes>
+                <id>11</id>
+                <firstName>Elena</firstName>
+                <lastName>Morozova</lastName>
+                <age>26</age>
+                <position>SMM Manager</position>
+            </employes>
+            <employes>
+                <id>18</id>
+                <firstName>Alina</firstName>
+                <lastName>Kuznetsova</lastName>
+                <age>27</age>
+                <position>UX Designer</position>
+            </employes>
+            <employes>
+                <id>20</id>
+                <firstName>Tatiana</firstName>
+                <lastName>Orlova</lastName>
+                <age>29</age>
+                <position>Product Manager</position>
+            </employes>
+            <employes>
+                <id>24</id>
+                <firstName>Veronika</firstName>
+                <lastName>Popova</lastName>
+                <age>34</age>
+                <position>Content Manager</position>
+            </employes>
+        </department>
+        <department>
+            <id>5</id>
+            <departmentName>HR department</departmentName>
+            <employes>
+                <id>12</id>
+                <firstName>Yulia</firstName>
+                <lastName>Tikhonova</lastName>
+                <age>35</age>
+                <position>HR Manager</position>
+            </employes>
+            <employes>
+                <id>13</id>
+                <firstName>Artem</firstName>
+                <lastName>Vasilij</lastName>
+                <age>30</age>
+                <position>Recruiter</position>
+            </employes>
+            <employes>
+                <id>14</id>
+                <firstName>Natalija</firstName>
+                <lastName>Gromova</lastName>
+                <age>37</age>
+                <position>HR Business Partner</position>
+            </employes>
+            <employes>
+                <id>26</id>
+                <firstName>Marina</firstName>
+                <lastName>Lebedeva</lastName>
+                <age>29</age>
+                <position>HR Specialist</position>
+            </employes>
+        </department>
+        <department>
+            <id>6</id>
+            <departmentName>IT department</departmentName>
+            <employes>
+                <id>1</id>
+                <firstName>John</firstName>
+                <lastName>Hock</lastName>
+                <age>45</age>
+                <position>Senior Developer</position>
+            </employes>
+            <employes>
+                <id>2</id>
+                <firstName>Endru</firstName>
+                <lastName>Edison</lastName>
+                <age>44</age>
+                <position>Middle Developer</position>
+            </employes>
+            <employes>
+                <id>3</id>
+                <firstName>Dmitrij</firstName>
+                <lastName>Kozlov</lastName>
+                <age>25</age>
+                <position>Junior Developer</position>
+            </employes>
+            <employes>
+                <id>4</id>
+                <firstName>Marija</firstName>
+                <lastName>Skvarnova</lastName>
+                <age>29</age>
+                <position>QA Engineer</position>
+            </employes>
+            <employes>
+                <id>5</id>
+                <firstName>Alexey</firstName>
+                <lastName>Smirnov</lastName>
+                <age>25</age>
+                <position>Automation QA</position>
+            </employes>
+            <employes>
+                <id>15</id>
+                <firstName>Ivan</firstName>
+                <lastName>Petrov</lastName>
+                <age>28</age>
+                <position>Frontend Developer</position>
+            </employes>
+            <employes>
+                <id>16</id>
+                <firstName>Olga</firstName>
+                <lastName>Ivanova</lastName>
+                <age>31</age>
+                <position>Backend Developer</position>
+            </employes>
+            <employes>
+                <id>17</id>
+                <firstName>Maxim</firstName>
+                <lastName>Sidorov</lastName>
+                <age>35</age>
+                <position>DevOps Engineer</position>
+            </employes>
+            <employes>
+                <id>19</id>
+                <firstName>Pavel</firstName>
+                <lastName>Fedorov</lastName>
+                <age>42</age>
+                <position>Project Manager</position>
+            </employes>
+            <employes>
+                <id>22</id>
+                <firstName>Kristina</firstName>
+                <lastName>Zaitseva</lastName>
+                <age>26</age>
+                <position>Junior QA</position>
+            </employes>
+            <employes>
+                <id>25</id>
+                <firstName>Andrey</firstName>
+                <lastName>Volkov</lastName>
+                <age>40</age>
+                <position>IT Director</position>
+            </employes>
+        </department>
+    </Departments>
+</company>

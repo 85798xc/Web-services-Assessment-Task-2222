@@ -1,0 +1,7 @@
+databaseChangeLog:
+  - include:
+      file: db/changelog/db.changelog-department.xml
+  - include:
+      file: db/changelog/db.changelog-employee.xml
+  - include:
+      file: db/changelog/db.changelog-company.xml
